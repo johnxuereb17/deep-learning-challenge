@@ -70,4 +70,4 @@ Design a neural network model, and be sure to adjust for modifications that will
 
 Save and export your results to an HDF5 file. Name the file AlphabetSoupCharity_Optimization.h5.
 
-Worked with Benjamin Moran on this project, link to his Github: 
+Worked with Benjamin Moran on this project, link to his Github: https://github.com/BenjaminMoran1/deep-learning-challenge
